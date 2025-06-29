@@ -115,8 +115,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=manish96852&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
-
-
 ---
 
 <p align="center">
