@@ -1,4 +1,4 @@
-
+![logo](6f8528220c6543571f138b1b9e1c5b55.jpg)
 <h1 align="center">Hi 👋, I'm batman</h1>
 <h3 align="center">
 Hacker soul ⚡ builder craft 🛠️ AI dreamer 🤖 FastAPI & DevOps learner 🚀 Gen Z fire, old-school roots ✨ forward mind, poetic code.””</h3>
