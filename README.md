@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/_manish_oberoi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
-  <a href="mailto:www.mk996820@gmail.com" target="_blank">
+  <a href="www.mk996820@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Gmail" />
   </a>
 </p>
