@@ -1,8 +1,9 @@
-![logo](6f8528220c6543571f138b1b9e1c5b55.jpg)
+
 <h1 align="center">Hi 👋, I'm batman</h1>
 <h3 align="center">
 Hacker soul ⚡ builder craft 🛠️ AI dreamer 🤖 FastAPI & DevOps learner 🚀 Gen Z fire, old-school roots ✨ forward mind, poetic code.””</h3>
 
+![logo](6f8528220c6543571f138b1b9e1c5b55.jpg)
 <img align="right" alt="coding" width="400" src="C:\Users\batman\Downloads\coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish96852&label=Profile%20views&color=0e75b6&style=flat" alt="manish96852" /> </p>
