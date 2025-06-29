@@ -7,7 +7,7 @@
 
 <p align="center">
   🌱 <strong>Currently Learning:</strong> FastAPI ⚡, DevOps & Cloud ☁️, Generative AI 🤖 <br/>
-  👯 <strong>Looking to Collaborate on:</strong> Web Development 🌐, DevOps Automation 🔧, AI & ML Challenges 🤖, DSA 📊 <br/>
+  👯 <strong>Looking to Collaborate on:</strong> Web Development 🌐, AI & ML Challenges 🤖, DSA 📊 <br/>
   📫 <strong>Reach Me At:</strong> www.mk996820@gmail.com <br/>
   ⚡ <strong>Fun Fact:</strong> I write poetic code and sometimes servers reply with haikus! ✨
 </p>
