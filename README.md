@@ -111,10 +111,8 @@
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manish96852&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
+ <img width="663" height="113" alt="92327052-d99b9e00-f091-11ea-9a24-c7ec86982370" src="https://github.com/user-attachments/assets/edb7617f-ad2c-4b70-8376-00c4c892b586" />
 
 ---
 
