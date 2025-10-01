@@ -12,16 +12,13 @@
   🏆 <strong>Hackathon Conqueror</strong>
 </p>
 
-
 ---
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
-
 <p align="center">
   <a href="https://www.instagram.com/_manish_oberoi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
- 
 </p>
 
 ---
@@ -91,9 +88,6 @@
 
 ---
 
-
-
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -104,9 +98,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=manish96852&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish96852&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -114,7 +105,21 @@
 <p align="center">
  <img width="663" height="113" alt="92327052-d99b9e00-f091-11ea-9a24-c7ec86982370" src="https://github.com/user-attachments/assets/edb7617f-ad2c-4b70-8376-00c4c892b586" />
 
----
+------
+
+<h3 align="center">📊 GitHub Statistics</h3>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manish96852&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manish96852&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manish96852&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manish96852&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish96852&theme=2077" height="180em" />
+</div>
+
+<h2 align="left">⚡ GitHub Activity Graph</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=manish96852&theme=tokyo-night"/>
+</p>
 
 <p align="center">
   💡 <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
