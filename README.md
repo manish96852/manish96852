@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batman 🦇</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center">🚀 Full Stack Web Developer | ⚡ Hacker Soul | 🛠️ Builder Craft | 🤖 AI Dreamer | FastAPI & DevOps Learner 🚀</h3>
 
 <p align="center">
@@ -12,7 +13,7 @@
   🏆 <strong>Hackathon Conqueror</strong>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
@@ -21,7 +22,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
 <h3 align="center">💻 Tech Stack & Tools 💻</h3>
 
@@ -86,26 +87,39 @@
   <img src="https://img.shields.io/badge/Shell%20Scripting-FFD500?logo=gnubash&logoColor=black&style=for-the-badge" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish96852&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=manish96852&theme=codeSTACKr&hide_border=true" 
+    alt="GitHub Streak"
+    width="800"
+    style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
+  />
+  <br/>
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=manish96852&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" 
+          alt="GitHub Stats" 
+          width="400" 
+          style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish96852&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+          alt="Top Languages" 
+          width="400" 
+          style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manish96852&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
- <img width="663" height="113" alt="92327052-d99b9e00-f091-11ea-9a24-c7ec86982370" src="https://github.com/user-attachments/assets/edb7617f-ad2c-4b70-8376-00c4c892b586" />
-
-------
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
@@ -116,6 +130,25 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish96852&theme=2077" height="180em" />
 </div>
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> <div align="center"> <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+<p align="center">
+      Gupta GitRoll Contribution Graph <br>
+  <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
+  </a>
+</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h2 align="left">⚡ GitHub Activity Graph</h2>
 <p align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=manish96852&theme=tokyo-night"/>
@@ -123,4 +156,4 @@
 
 <p align="center">
   💡 <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</p>
+
