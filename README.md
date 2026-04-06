@@ -90,36 +90,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.vercel.app/?user=manish96852&theme=codeSTACKr&hide_border=true" 
-    alt="GitHub Streak"
-    width="800"
-    style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
-  />
-  <br/>
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=manish96852&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" 
-          alt="GitHub Stats" 
-          width="400" 
-          style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish96852&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-          alt="Top Languages" 
-          width="400" 
-          style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish96852&theme=tokyonight" width="800"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manish96852&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manish96852&layout=compact&theme=tokyonight" width="400"/>
+</p>
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
